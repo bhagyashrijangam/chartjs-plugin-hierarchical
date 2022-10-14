@@ -8,9 +8,9 @@
     "url": "https://www.sgratzl.com"
   },
   "license": "MIT",
-  "homepage": "https://github.com/sgratzl/chartjs-plugin-hierarchical",
+  "homepage": "https://github.com/bhagyashrijangam/chartjs-plugin-hierarchical",
   "bugs": {
-    "url": "https://github.com/sgratzl/chartjs-plugin-hierarchical/issues"
+    "url": "https://github.com/bhagyashrijangam/chartjs-plugin-hierarchical/issues"
   },
   "keywords": [
     "chart.js",
