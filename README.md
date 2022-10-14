@@ -21,7 +21,8 @@ Check out also my other chart.js plugins:
 ## Install
 
 ```bash
-npm install --save chart.js chartjs-plugin-hierarchical
+To install package 
+npm install https://github.com/bhagyashrijangam/chartjs-plugin-hierarchical/tarball/feature
 ```
 
 ## Usage
